@@ -1,5 +1,5 @@
 # SOLID
-Juan Campo/ Juan Ayala
+
 
 Juan Diego Campo y Juan Sebastian Ayala
 
