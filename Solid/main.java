@@ -18,8 +18,8 @@ public class main {
         Employees.add(Lolito);
         Employees.add(juan);
 
-        // RealizarReporte(juan, reportePDF);
-        // RealizarReporte(Lolito, reporteExcel);
+        RealizarReporte(juan, reportePDF);
+        
         RealizarReporteMultiple(Employees, reporteExcel);
 
     }
