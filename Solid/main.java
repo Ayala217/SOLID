@@ -24,7 +24,7 @@ public class main {
 
     }
 
-    // private Reporte Reporte;
+    
 
     public static void RealizarReporte(Employee employee, Report reporte) {
 
